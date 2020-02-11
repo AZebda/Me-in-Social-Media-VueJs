@@ -1,0 +1,9 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    color: #434343 !important;
+    background: #fafafa !important;
+    transition: font-size .5s ease;
+  }
